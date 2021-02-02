@@ -55,6 +55,8 @@
             include("theme/index/dashboard.php");
         } else if($_SESSION["panel"] == 1) {
             include("theme/index/user.php");
+        } else {
+            include("theme/index/dashboard.php");
         }
         ?>
 </div>
