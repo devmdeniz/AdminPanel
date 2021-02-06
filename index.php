@@ -39,7 +39,7 @@
         <br>
         <div class="altsidebar">
         <div class="mainwebsite">
-        <h3 class="colormagenta"><a href="system/modechanger.php?darkmode=true">Website</a></h3>
+        <h3 class="colormagenta"><a href="system/modechanger.php?darkmode=true" target = "_blank">Website</a></h3>
         </div>
         <div class="logout">
         <h3 class="colormagenta">Log Out</h3>    
