@@ -16,10 +16,10 @@
 ?>
 <header>
         <nav>
-        <h1 class = "hone"><?php echo $mainparagraph[0];?>[0]</h1>
+        <h1 class = "hone"><?php echo $mainparagraph[0];?>[1]</h1>
                 <ul>
-                    <li><a href="#home"><?php echo $mainparagraph[1];?>[1]</a></li>
-                    <li><a href="#contact"><?php echo $mainparagraph[2]?>[2]</a></li>
+                    <li><a href="#home"><?php echo $mainparagraph[1];?>[2]</a></li>
+                    <li><a href="#contact"><?php echo $mainparagraph[2]?>[3]</a></li>
                     <li>
                     <!-- system/modechanger.php?darkmode=true -->
                     
